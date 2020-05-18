@@ -1,0 +1,3 @@
+[submodule "pcb/switch_footprints"]
+	path = pcb/switch_footprints
+	url = https://github.com/daprice/keyswitches.pretty.git
