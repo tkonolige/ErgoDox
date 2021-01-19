@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "ErgoDOX pcb")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
-  (lib (name lib_footprints)(type KiCad)(uri "E:\\Program Files\\KiCad\\lib_footprints")(options "")(descr ""))
+  (lib (name lib_footprints)(type KiCad)(uri "E:/Program Files/KiCad/lib_footprints")(options "")(descr "")(disabled))
+  (lib (name switch_footprints)(type KiCad)(uri /Users/tristan/Sync/Hacking/ErgoDox/pcb/switch_footprints)(options "")(descr ""))
 )

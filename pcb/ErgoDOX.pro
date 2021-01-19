@@ -1,21 +1,8 @@
-update=Tue 09 Oct 2012 09:10:18 AM CEST
+update=Monday, May 11, 2020 at 12:44:44 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-NetFmt=1
-HPGLSpd=20
-HPGLDm=15
-HPGLNum=1
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
-[eeschema/libraries]
-LibName1=component
 [cvpcb]
 version=1
 NetIExt=net
@@ -41,3 +28,16 @@ MSegLar=240
 [pcbnew/libraries]
 LibDir=
 LibName1=footprint
+[eeschema]
+version=1
+LibDir=
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
